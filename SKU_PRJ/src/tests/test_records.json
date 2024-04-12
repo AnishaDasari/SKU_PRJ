@@ -1,0 +1,14 @@
+[
+    {
+        "sku": "berliner",
+        "description": "Jelly donut",
+        "price": "2.99",
+        "createdAt": 1609459200
+    },
+    {
+        "sku": "croissant",
+        "description": "Butter croissant",
+        "price": "1.99",
+        "createdAt": 1640995200
+    }
+]
