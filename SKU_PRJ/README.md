@@ -55,7 +55,7 @@ Option 1:
    
    ```bash
    git clone <repository_url>
-   cd project
+   cd SKU_PRJ
 2. Navigate to the project directory, they can simply execute ./run.sh to install dependencies and run the main script with a single command. The run.sh script takes care of installing dependencies specified in requirements.txt and than executes the main.py script.
 
 Option 2:
@@ -77,3 +77,4 @@ This command will execute the unit tests and display the results.
 
 **Note**
 Ensure you have Python installed on your system.
+
